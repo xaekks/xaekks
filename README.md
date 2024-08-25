@@ -21,7 +21,13 @@
 <h3>
     
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
-  
+  <p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=ishan-rajput &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-rajput &&show_icons=true&theme=midnight-purple" alt="𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪"/>
+</p>        
 
 [<img src="https://github-readme-stats.vercel.app/api?username=kissuxbots &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/ishan-rajput) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=kissuxbots&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ishan-rajput)
     
