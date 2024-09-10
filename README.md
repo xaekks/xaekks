@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaekks&&show_icons=true&theme=midnight-purple" alt="𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪"/>
 </p>        
 
-[<img src="https://github-readme-stats.vercel.app/api?username=xaekks &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/xaekks) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=xaekks&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/xaekks)
+[<img src="https://github-readme-stats.vercel.app/api?username=xaekks&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/xaekks) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=xaekks&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/xaekks)
     
 
     
