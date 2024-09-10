@@ -22,7 +22,7 @@
     
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=ishan-rajput &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=xaekks&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
