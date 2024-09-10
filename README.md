@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/ishan-rajput/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/xaekks/count.svg" />
 </p>
 
 <h1>ʜɪ ! ɪᴛ's ᴍᴇ 𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-rajput &&show_icons=true&theme=midnight-purple" alt="𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaekks&&show_icons=true&theme=midnight-purple" alt="𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪"/>
 </p>        
 
-[<img src="https://github-readme-stats.vercel.app/api?username=kissuxbots &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/ishan-rajput) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=kissuxbots&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ishan-rajput)
+[<img src="https://github-readme-stats.vercel.app/api?username=kissuxbots &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/xaekks) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=kissuxbots&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/xaekks)
     
 
     
