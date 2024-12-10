@@ -9,7 +9,7 @@
 
 
 
-![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
+![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,html)
 
 <p align="center">
   <a href="https://t.me/xaekks"><img src="https://graph.org/file/d244a37bfc6e17f68d17b.jpg"></a>
